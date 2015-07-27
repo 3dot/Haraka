@@ -33,6 +33,9 @@
     "vs-stun": "~0.0.7",
     "maxmind": "*",
     "redis": "~0.10.1",
+    "kue": "*",
+    "async": "*",
+    "lodash": "*",
     "tmp": "~0.0.24",
     "haraka-nosql": "*",
     "elasticsearch": "*"
